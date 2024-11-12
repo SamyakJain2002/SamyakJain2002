@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyakjain2002" alt="samyakjain2002" /></a> </p>
 
-- 💬 Ask me about **Flutter, Django and Coding problems**
+- 💬 Ask me about **Golang, Springboot and Coding problems**
 
 - 📫 How to reach me **jainsamyak.com@gmail.com**
 
